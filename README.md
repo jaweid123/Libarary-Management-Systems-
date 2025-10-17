@@ -48,6 +48,7 @@ The system database consists of multiple tables such as:
 - Users – Admin login credentials  
 
 All tables are linked with primary and foreign key constraints, ensuring data consistency and referential integrity.
+
 #create by #Jaweid #Moraadi 
 ---
 
